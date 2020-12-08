@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+	<customer>
+		<id>1</id>
+		<firstName>Prasant</firstName>
+		<lastName>Varma</lastName>
+		<email>g.prasant@gmail.com</email>
+	</customer>
+
+	<customer>
+		<id>2</id>
+		<firstName>keerthi</firstName>
+		<lastName>M</lastName>
+		<email>keerthi@gmail.com</email>
+	</customer>
+</customers>
